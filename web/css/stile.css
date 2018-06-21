@@ -1,0 +1,79 @@
+#Marco{
+    height:-99px;
+    width: 500px;
+    margin-right: 650px;
+    margin-top: 100px;
+    margin-left: 350px;
+    border-radius: 6px;
+ 
+}
+#subtitulo1{
+          padding-left: 60px;
+     font: 150% sans-serif;
+}
+#subtitulo2{
+      padding-left: 50px;
+           font: 150% sans-serif;
+}
+.form-actions {
+    
+    margin: 0;
+    background-color: transparent;
+    text-align: center;
+}
+.btn-lg{
+    padding: 10px 15px;
+}
+.box{
+margin-right: 70px;
+      
+    background-color: transparent;
+    text-align: center;
+}
+.Registro{
+margin-left: -150px;
+    background-color: transparent;
+    text-align: center;
+}
+.Entrada1{
+    width: 220px;
+    margin-right: -10px;
+    background-color: transparent;
+    
+}
+.Entrada2{
+     width: 220px;
+}
+.Titulo{
+          font: 150% sans-serif;
+}
+.boton1 {
+   
+    padding: 10px  45px;
+    background: rgb(19, 143, 247);
+    border: 1px solid #1161B0;
+    color: #fff;
+    border-radius: 4px;
+    text-decoration:none;
+    
+}
+.boton2{
+     padding: 10px  40px;
+    background: rgb(19, 143, 247);
+    border: 1px solid #1161B0;
+    color: #fff;
+    border-radius: 4px;
+    text-decoration:none;
+    transition:background 1s,color 1s;
+}
+.boton3{
+     padding: 10px  50px;
+    background: rgb(19, 143, 247);
+    border: 1px solid #1161B0;
+    color: #fff;
+    border-radius: 4px;
+    text-decoration:none;
+    transition:background 1s,color 1s;
+}
+
+
